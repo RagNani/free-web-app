@@ -1,0 +1,34 @@
+#authors
+marc:
+ display_name: Marc-André Moreau
+ email: marcandre.moreau@gmail.com
+ web: http://www.awakecoding.com/
+ twitter: awakecoding
+ github: awakecoding
+bm:
+ display_name: Bernhard Miklautz
+ email: bmiklautz+freerdp@shacknet.at
+ twitter: bmiklautz
+ github: bmiklautz
+an:
+ display_name: Armin Novak
+ email: akallabeth@posteo.net
+ github: akallabeth
+remmina:
+ display_name: The Remmina Team
+ web: https://remmina.org/
+ email: admin@remmina.org
+felixdeimel:
+ display_name: Felix Deimel
+ email: felix@lemonmojo.com
+ github: lemonmojo
+mf:
+ display_name: Martin Fleisz
+ email: martin.fleisz@thincast.com
+ github: mfleisz
+ web: https://thincast.com
+cc:
+ display_name: Cedric Coste
+ email: contact@cedric-coste.com
+ github: cedrozor
+ web: https://www.myrtille.io
